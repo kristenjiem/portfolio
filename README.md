@@ -1,7 +1,8 @@
-# portfolio
+# Portfolio
 DATA 1202 (Durham College)
 
-# Project Title
+
+# Lab 4
 
 One Paragraph of project description goes here
 
