@@ -250,4 +250,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](#) file fo
 
 ## Acknowledgments
 
-We extend our gratitude to Durham College for its support and resources throughout the development of this project. We also appreciate the guidance and support provided by our professor, Omar Al-trad.
+We extend our gratitude to Durham College for its support and resources throughout the development of this project. We also appreciate the guidance and support provided by our professor, Omar Al-Trad.
